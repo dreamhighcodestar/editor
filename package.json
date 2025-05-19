@@ -21,7 +21,7 @@
     "@types/prosemirror-model": "^1.7.2",
     "@types/prosemirror-state": "^1.2.5",
     "@types/prosemirror-view": "^1.15.1",
-    "@typescript-eslint/eslint-plugin": "^4.17.0",
+    "@typescript-eslint/eslint-plugin": "^8.32.1",
     "@typescript-eslint/parser": "^4.17.0",
     "command-line-args": "^5.1.1",
     "common-tags": "^1.8.0",
