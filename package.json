@@ -44,7 +44,7 @@
     "lerna": "^3.20.2",
     "mini-css-extract-plugin": "^2.5.3",
     "node-fetch": "^2.6.1",
-    "prettier": "^2.1.2",
+    "prettier": "^3.6.2",
     "resize-observer-polyfill": "^1.5.1",
     "rollup": "^2.52.0",
     "rollup-plugin-banner": "^0.2.1",
