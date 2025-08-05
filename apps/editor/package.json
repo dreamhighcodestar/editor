@@ -79,7 +79,7 @@
   "devDependencies": {
     "@toast-ui/release-notes": "^2.0.1",
     "@types/dompurify": "2.3.3",
-    "cross-env": "^6.0.3"
+    "cross-env": "^10.0.0"
   },
   "dependencies": {
     "dompurify": "^2.3.3",
