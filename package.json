@@ -10,7 +10,7 @@
     "@rollup/plugin-node-resolve": "^13.0.0",
     "@rollup/plugin-typescript": "^8.2.1",
     "@testing-library/dom": "^8.11.3",
-    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/jest-dom": "^6.6.4",
     "@types/common-tags": "^1.8.0",
     "@types/jest": "^27.4.0",
     "@types/node": "^17.0.14",
